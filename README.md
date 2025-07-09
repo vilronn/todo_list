@@ -1,3 +1,7 @@
+# todo_list
+
+My test project: a simple todo list built with React, TypeScript, and Hooks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
